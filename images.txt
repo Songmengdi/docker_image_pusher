@@ -1,2 +1,3 @@
 nginx
 laoyutang/clash-and-dashboard
+continuumio/anaconda3:2023.09-0
