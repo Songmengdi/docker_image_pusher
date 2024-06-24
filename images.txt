@@ -9,3 +9,4 @@ mysql:8.0.23
 justsong/one-api:latest
 homeassistant/home-assistant:2024.5
 hotio/qbittorrent:release-4.6.5
+dbeaver/cloudbeaver:23.2.4
