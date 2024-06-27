@@ -13,3 +13,4 @@ dbeaver/cloudbeaver:23.2.4
 esme518/docker-maccms10
 mariadb:10.3
 pretty66/iptables-web:1.1.1
+ghcr.io/mckaywrigley/chatbot-ui:main
