@@ -14,3 +14,4 @@ esme518/docker-maccms10
 mariadb:10.3
 pretty66/iptables-web:1.1.1
 yidadaa/chatgpt-next-web:latest
+xhofe/alist:v3.35.0
