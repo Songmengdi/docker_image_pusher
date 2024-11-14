@@ -1,1 +1,1 @@
-apitable/node:v16.15.0
+apitable/nodepy:16.15.0-alpine
