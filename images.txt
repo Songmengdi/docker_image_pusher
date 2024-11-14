@@ -1,1 +1,1 @@
-amazoncorretto:17
+openresty/openresty:1.21.4.1-4-buster-fat
