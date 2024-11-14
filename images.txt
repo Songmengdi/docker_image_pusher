@@ -1,1 +1,1 @@
-openresty/openresty:1.21.4.1-4-buster-fat
+apitable/nodepy:16.15.0-alpine
