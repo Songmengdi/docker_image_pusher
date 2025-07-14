@@ -1,1 +1,2 @@
-docker.n8n.io/n8nio/n8n:1.89.2
+falkordb/falkordb
+neo4j:5.26.9
