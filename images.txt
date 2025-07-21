@@ -1,2 +1,2 @@
-falkordb/falkordb
-neo4j:5.26.9
+maven:3.9.4-openjdk-17
+openjdk:17-jre-slim
