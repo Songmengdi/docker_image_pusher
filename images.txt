@@ -1,2 +1,1 @@
-openjdk:11-ea-17-jre-slim
-maven:3.8.5-openjdk-17
+gs0245/maccms10
